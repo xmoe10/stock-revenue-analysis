@@ -9,8 +9,7 @@ This project analyzes historical stock prices and revenue data for Tesla and Gam
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Code Explanation](#code-explanation)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
