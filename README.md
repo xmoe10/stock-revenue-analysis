@@ -1,5 +1,5 @@
 # stock-revenue-analysis
-# Project Title: Stock and Revenue Analysis of Tesla and GameStop
+## Project Title: Stock and Revenue Analysis of Tesla and GameStop
 
 ## Overview
 This project analyzes historical stock prices and revenue data for Tesla and GameStop. Using Python libraries like `yfinance`, `pandas`, and `plotly`, the project visualizes the trends in stock prices and quarterly revenues.
