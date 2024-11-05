@@ -32,7 +32,7 @@ To execute the project:
 ```
  2. Navigate to the project directory:
    ```bash
-    cd yourprojectname
+    cd Stock Price and Revenue Analysis for Tesla and GameStop Project..ipynb
    ```
 3. Run the Jupyter Notebook:
 ```bash
